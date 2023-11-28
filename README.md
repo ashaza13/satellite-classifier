@@ -2,6 +2,10 @@
 
 This project is a simple computer vision project that identifies planes in satellite imagery.
 
+## Data Set
+
+https://www.kaggle.com/datasets/rhammell/planesnet/
+
 ## Set up
 
 It is recommended to run this project in a python virtual environment
