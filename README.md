@@ -34,4 +34,4 @@ Install all the dependencies once you are in the virtual environment with the co
 
 `pip install -r requirments.txt`
 
-
+Ensure that 'planesnet.json' is installed from the kaggle dataset.
